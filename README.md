@@ -11,9 +11,3 @@ This repository contains the implementation, calibration, and critical analysis 
 * **CIR++ Extension:** Implementation of the Brigo-Mercurio deterministic shift to exactly fit the initial term structure.
 * **Critical Analysis:** Comparative backtesting demonstrating the 1-factor limitations of the model on the 5Y-30Y curve (Level, Slope, Curvature) and proving the out-of-sample overfitting trap of the CIR++ extension.
 
-## How to Run the Notebook
-1. Open the `CIR_Yield_Curve_Project.ipynb` file.
-2. You can click the **"Open in Colab"** badge at the top of the notebook to run it interactively in your browser.
-3. Ensure that `train_data.csv`, `test_data.csv`, and `test_data_3M.csv` are uploaded to your default `/content/` directory in Colab before executing the cells.
-
-**Submitted by:** [Your Name] | [Your Roll Number/ID]
